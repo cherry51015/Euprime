@@ -1,0 +1,35 @@
+rank,score,name,title,company,location,company_hq,email,linkedin_url
+1,85,Kevan English,Research Scientist,Department of Internal Medicine,Unknown,"Basel, Switzerland",kevan.english@departmentofinternalmedicine.com,
+2,85,Satendra Kumar Nirala,Research Scientist,Laboratory of Natural Products Research,Unknown,"Cambridge, MA",satendra.nirala@laboratoryofnaturalproductsresearch.com,
+3,85,Arshdeep Singh,Research Scientist,Department of Gastroenterology,Unknown,"Cambridge, MA",arshdeep.singh@departmentofgastroenterology.com,
+4,85,Yu Wu,Research Scientist,Nantong Hospital of Traditional Chinese Medicine,Unknown,"Basel, Switzerland",yu.wu@nantonghospitaloftraditionalchinesemedicine.com,
+5,85,Jessica Medina,Research Scientist,Department of Human Genetics,Unknown,"Boston, MA",jessica.medina@departmentofhumangenetics.com,
+6,85,Arshia Bhardwaj,Research Scientist,Department of Gastroenterology,Unknown,"Cambridge, MA",arshia.bhardwaj@departmentofgastroenterology.com,
+7,85,Meimei Luo,Research Scientist,Nantong Hospital of Traditional Chinese Medicine,Unknown,"Basel, Switzerland",meimei.luo@nantonghospitaloftraditionalchinesemedicine.com,
+8,80,Hailey Burgoyne,Research Scientist,Micron School for Materials Science and Engineering,Unknown,"Boston, MA",hailey.burgoyne@micronschoolformaterialsscienceandengineering.com,
+9,80,Elizabeth H Jacobs,Research Scientist,Department of Neurology,Unknown,"San Francisco, CA",elizabeth.jacobs@departmentofneurology.com,
+10,80,Yuchun Chen,Research Scientist,School of Pharmaceutical Sciences (Shenzhen),Unknown,"Boston, MA",yuchun.chen@schoolofpharmaceuticalsciences(shenzhen).com,
+11,80,Aya Khamis Hassan,Research Scientist,Maxillofacial and Oral Surgery,Unknown,"San Francisco, CA",aya.hassan@maxillofacialandoralsurgery.com,
+12,80,Alexandra Hong,Research Scientist,Department of Research,Unknown,"Boston, MA",alexandra.hong@departmentofresearch.com,
+13,80,Yuchun Chen,Research Scientist,School of Pharmaceutical Sciences (Shenzhen),Unknown,"Boston, MA",yuchun.chen@schoolofpharmaceuticalsciences(shenzhen).com,
+14,80,Haiyan Du,Research Scientist,Department of Hepatology,Unknown,"San Francisco, CA",haiyan.du@departmentofhepatology.com,
+15,80,Gaohuan Hou,Research Scientist,School of Medicine,Unknown,"Boston, MA",gaohuan.hou@schoolofmedicine.com,
+16,80,Haiyan Du,Research Scientist,Department of Hepatology,Unknown,"San Francisco, CA",haiyan.du@departmentofhepatology.com,
+17,80,Iyawnna Hazzard,Research Scientist,Department of Research,Unknown,"Boston, MA",iyawnna.hazzard@departmentofresearch.com,
+18,75,Mone't Sawyer,Research Scientist,Biomedical Engineering Doctoral Program,Unknown,"Boston, MA",mone't.sawyer@biomedicalengineeringdoctoralprogram.com,
+19,75,Vignesh Sakthivel,Research Scientist,Toxicology and Pharmacology Laboratory,Unknown,"Basel, Switzerland",vignesh.sakthivel@toxicologyandpharmacologylaboratory.com,
+20,75,Santhanam Sanjai Dharshan,Research Scientist,Toxicology and Pharmacology Laboratory,Unknown,"Basel, Switzerland",santhanam.dharshan@toxicologyandpharmacologylaboratory.com,
+21,75,Rachel K Moen,Research Scientist,Department of Chemical and Biomolecular Engineering,Unknown,"Cambridge, MA",rachel.moen@departmentofchemicalandbiomolecularengineering.com,
+22,75,Gabriella Faircloth,Research Scientist,Department of Chemical and Biomolecular Engineering,Unknown,"Cambridge, MA",gabriella.faircloth@departmentofchemicalandbiomolecularengineering.com,
+23,75,Madita Wandrey,Research Scientist,Department of Otorhinolaryngology,Unknown,"Basel, Switzerland",madita.wandrey@departmentofotorhinolaryngology.com,
+24,75,Shubham Singh,Research Scientist,Toxicology and Pharmacology Laboratory,Unknown,"Basel, Switzerland",shubham.singh@toxicologyandpharmacologylaboratory.com,
+25,70,Shinya Takada,Research Scientist,Department of Pharmacy,Unknown,"Boston, MA",shinya.takada@departmentofpharmacy.com,
+26,70,Kengo Umehara,Research Scientist,Department of Pharmacy,Unknown,"Boston, MA",kengo.umehara@departmentofpharmacy.com,
+27,70,Sample Person 4,Director of Drug Safety,BioMarin,"Cambridge, MA","Cambridge, MA",sample.4@biomarin.com,https://linkedin.com/in/sample-person-4
+28,70,Kengo Umehara,Research Scientist,Department of Pharmacy,Unknown,"Boston, MA",kengo.umehara@departmentofpharmacy.com,
+29,70,Shinya Takada,Research Scientist,Department of Pharmacy,Unknown,"Boston, MA",shinya.takada@departmentofpharmacy.com,
+30,70,Kaiming Li,Research Scientist,Jinling Clinical Medical College,Unknown,"Boston, MA",kaiming.li@jinlingclinicalmedicalcollege.com,
+31,65,Sample Person 2,Head of Preclinical Safety,Genentech,"Cambridge, MA","Cambridge, MA",sample.2@genentech.com,https://linkedin.com/in/sample-person-2
+32,65,Sample Person 1,Director of Toxicology,Moderna,"Cambridge, MA","Basel, Switzerland",sample.1@moderna.com,https://linkedin.com/in/sample-person-1
+33,65,Sample Person 5,Principal Scientist Toxicology,Regeneron,"Cambridge, MA","Boston, MA",sample.5@regeneron.com,https://linkedin.com/in/sample-person-5
+34,65,Sample Person 3,VP Safety Assessment,Vertex Pharmaceuticals,"Cambridge, MA","Basel, Switzerland",sample.3@vertexpharmaceuticals.com,https://linkedin.com/in/sample-person-3
