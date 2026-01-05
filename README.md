@@ -2,8 +2,11 @@
 
 **A web-based lead scoring system for biotech/pharma business development**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://euprime-txeoidpyg6swmbbzhw6snw.streamlit.app/])
-[! Find the Google sheets result here](/leads_for_sheets_20260105.xls)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_APP_URL_HERE)
+
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://euprime-txeoidpyg6swmbbzhw6snw.streamlit.app/)
+![Find the Google sheets result here](/leads_for_sheets_20260105.xls)
 
 ---
 
