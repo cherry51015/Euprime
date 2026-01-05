@@ -255,7 +255,7 @@ def main():
     # Header
     st.title("🔬 Lead Generation Agent")
     st.markdown("### 3D In-Vitro Models - Qualified Prospects for Biotech/Pharma")
-    st.markdown("**Demo for EuPrime Application** | Contact: akash@euprime.org")
+    st.markdown("**Demo for EuPrime Application**")
     st.markdown("---")
     
     # Sidebar
@@ -448,4 +448,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
