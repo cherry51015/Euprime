@@ -2,8 +2,8 @@
 
 **A web-based lead scoring system for biotech/pharma business development**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_APP_URL_HERE)
-[! Google sheets result here](/leads_for_sheets_20260105.xls)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://euprime-txeoidpyg6swmbbzhw6snw.streamlit.app/])
+[! Find the Google sheets result here](/leads_for_sheets_20260105.xls)
 
 ---
 
@@ -118,13 +118,16 @@ pip install -r requirements.txt
 ## 🎨 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Lead Details
-![Lead Details](screenshots/lead-details.png)
+![Lead Details](lead-details.png)
 
 ### Export Options
-![Export](screenshots/export.png)
+![Export](export.png)
+
+### Sample Data
+![Data](data.png)
 
 ---
 
